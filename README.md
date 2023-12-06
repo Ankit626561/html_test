@@ -1,3 +1,3 @@
 # html_test
-this is a test repo to put my html project.
+this is only for testing purpose.
 Author - Ankit Ahirwar
